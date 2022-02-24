@@ -6,6 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Amantha</h1>
 <h3 align="center">An Android developer from Srilanka</h3>
+<img src="https://github.com/Amanthakeshan2000/Amanthakeshan2000/blob/main/amantha.png" >
 
 <img src="https://github.com/Amanthakeshan2000/Amanthakeshan2000/blob/main/AnD.gif" width="300" height="300" margin-left="100">
 
