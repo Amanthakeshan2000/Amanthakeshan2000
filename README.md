@@ -1,4 +1,4 @@
-<img src="https://github.com/Amanthakeshan2000/Amanthakeshan2000/blob/main/amantha.png" >
+<img src="https://github.com/Amanthakeshan2000/Amanthakeshan2000/blob/main/ANN.gif" >
 
 
 
