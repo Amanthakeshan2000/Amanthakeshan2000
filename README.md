@@ -1,4 +1,4 @@
-[![@amanthakeshan's Holopin board](https://holopin.me/amanthakeshan)](https://holopin.io/@amanthakeshan)
+
 
 
 
@@ -7,15 +7,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Amantha</h1>
-<!-- <h3 align="center">An Android developer from Srilanka</h3>
+ <h3 align="center">An Android developer from Srilanka</h3>
 <img src="https://github.com/Amanthakeshan2000/Amanthakeshan2000/blob/main/amantha.png" >
- -->
+ 
 
-<img src="https://github.com/Amanthakeshan2000/Amanthakeshan2000/blob/main/ANN.gif" >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanthakeshan2000&label=Profile%20views&color=0e75b6&style=flat" alt="amanthakeshan2000" /> </p>
-
-
+[![@amanthakeshan's Holopin board](https://holopin.me/amanthakeshan)](https://holopin.io/@amanthakeshan)
+<img src="https://github.com/Amanthakeshan2000/Amanthakeshan2000/blob/main/ANN.gif" >
 - 🔭 I’m currently working on **NSBM Green University**
 
 - 🌱 I’m currently learning **Android , Boostrap , Java**
