@@ -1,5 +1,5 @@
 [![@amanthakeshan's Holopin board](https://holopin.me/amanthakeshan)](https://holopin.io/@amanthakeshan)
-<img src="https://github.com/Amanthakeshan2000/Amanthakeshan2000/blob/main/ANN.gif" >
+
 
 
 
@@ -11,7 +11,7 @@
 <img src="https://github.com/Amanthakeshan2000/Amanthakeshan2000/blob/main/amantha.png" >
  -->
 
-
+<img src="https://github.com/Amanthakeshan2000/Amanthakeshan2000/blob/main/ANN.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanthakeshan2000&label=Profile%20views&color=0e75b6&style=flat" alt="amanthakeshan2000" /> </p>
 
